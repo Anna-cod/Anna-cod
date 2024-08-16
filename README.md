@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anna-cod
-- 👀 I’m interested in mastering my programming skills
-- 🌱 I’m currently learning deep learning 
+- 👀 I’m interested in mastering my technical writing skills
+- 🌱 Read my blogs at https://medium.com/@AnnaLotic
 - 📫 Reach me noorulhudarasool@gmail.com
 
 <!---
